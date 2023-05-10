@@ -13,6 +13,7 @@ const AddTask = ({handleTaskAddition}) => {
 
     const handleAddTaskClick = () => {
         handleTaskAddition(inputData);
+        setInputData("");
     }
 
     return <div className='add-task-container'>
