@@ -6,10 +6,6 @@ export default function App() {
     {
       path: "/home",
       element: <Home />
-    },
-    {
-      path: "/home",
-      element: <Home />
     }
   ]);
 
