@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cls-1 {
+  @apply fill-[#ededed];
+}
+
+.cls-2 {
+  @apply fill-[#e68ea1];
+}
