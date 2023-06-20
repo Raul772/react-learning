@@ -6,6 +6,14 @@ export default function App() {
     {
       path: "/home",
       element: <Home />
+    },
+    {
+      path: "/login",
+      element: <Home />
+    },
+    {
+      path: "/signup",
+      element: <Home />
     }
   ]);
 

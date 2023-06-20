@@ -2,7 +2,8 @@
 
 
 export default {
-  content: ["./src/pages/*.tsx"],
+  content: ["./src/pages/*.tsx",
+  "./src/components/**/*.tsx"],
   theme: {
     extend: {},
   },

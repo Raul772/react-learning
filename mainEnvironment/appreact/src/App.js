@@ -4,7 +4,7 @@ const luana = {
     compras: [
         { nome: "Notebook", preco: "R$ 2500" },
         { nome: "Geladeira", preco: "R$ 3000" },
-        { nome: "Smartphone", preco: "R$ 1500" },
+        { nome: "Smartphone", preco: "R$ 1500" }
     ],
     ativa: true,
 };
@@ -16,7 +16,7 @@ const mario = {
         { nome: "Notebook", preco: "R$ 2500" },
         { nome: "Geladeira", preco: "R$ 3000" },
         { nome: "Smartphone", preco: "R$ 1500" },
-        { nome: "Guitarra", preco: "R$ 3500" },
+        { nome: "Guitarra", preco: "R$ 3500" }
     ],
     ativa: false,
 };
